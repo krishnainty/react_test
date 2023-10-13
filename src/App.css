@@ -36,3 +36,160 @@
     transform: rotate(360deg);
   }
 }
+.sidebar{
+  background-color: black;
+  
+}
+.sidebar ul{
+
+
+  font-size: 20px;
+  list-style: none;
+  margin: 0px;
+ 
+  padding: 5px;
+
+}
+.sidebar ul li{
+  margin-bottom: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.sidebar ul li i{
+  margin-right: 25px;
+}
+.logodiv{
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+body{
+  background: black !important;
+  color:white !important;
+
+}
+.menu{
+ margin-top: 20px;
+ margin-right: 20px;
+ font-size: 25px;
+
+}
+li img{
+  border-radius: 50%;
+  width:30px;
+  margin-right: 15px;
+}
+ul li:hover{
+  background-color: #282c34;
+  border-radius: 10px;
+  
+}
+.search{
+  border-radius: 25px 0% 0% 25px ;
+  width: 50%;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 15%;
+  background-color:rgb(65, 58, 58);
+  border-color: black;
+  border: 1px;
+}
+.searchb{ 
+  border-radius: 0px 25px 25px 0px;
+  padding: 11px;
+  width:40px;
+  height: 40px;
+  color: black;
+  background-color: white;
+  border-width: 1px;
+  background-color: #282c34;
+  display: inline;
+
+
+}
+.search:active,.search:focus{
+  outline: none;
+}
+.searchbar{
+  display: flex;
+}
+.mic{
+  display: inline;
+  border-radius: 50%;
+  background-color: #282c34;
+  padding: 11px 14px 11px 14px;
+  margin-left: 20px;
+
+}
+
+.vid{
+  display: inline;
+  margin-left: 12%;
+  background-color: #282c34;
+  border-radius: 50%;
+  padding: 11px;
+}
+.vid:hover,.bell:hover,.mic:hover{
+  background-color: #61dafb;
+
+
+}
+.bell{
+  display: inline;
+  margin-left: 2%;
+  padding: 11px;
+  background-color: #282c34;
+  border-radius: 50%;
+
+}
+.krd{
+  display: inline;
+}
+.kr{
+  margin-left: 2%;
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+}
+thead{
+  border-color: white;
+}
+table td{
+  color: white;
+}
+table-bordered{
+  border-color: white;
+}
+.filt{
+  overflow: auto;
+  white-space: nowrap;
+}
+.fb1{
+  background-color: black;
+  border-radius: 5px 5px 5px 5px;
+  background-color: #282c34;
+  border: black;
+  color: white;
+  margin: 10px;
+}
+.filt::-webkit-scrollbar{
+  display: none;
+}
+.ifr iframe{
+  margin: 5px;
+}
+.flip{
+  background-color: #282c34;
+  
+
+}
+.flex-container{
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
+input{
+  background-color: #282c34;
+}
+.ftable{
+  color: black;
+}

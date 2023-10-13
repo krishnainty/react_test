@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "productId": "1",
+      "title": "phone",
+      "brand": "Apple ",
+      "price": "100000",
+      "des": "Good",
+      "imgurl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/iphone-15-084541573-16x9_0.png?VersionId=pRutG6KiIBL2acG2uAAUgRABAsECOi4k&size=690:388",
+      "id": 1
+    }
+  ]
+}
